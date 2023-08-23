@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T09:29:04.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="JXSqd-VuFx1ogoh6JPFS" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T09:30:46.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="QkdN0po0VEhjRDpcJ-Mz" version="21.6.8" type="github">
   <diagram name="第 1 页" id="vHNizKL9Y82_c_2R3YAB">
     <mxGraphModel dx="815" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -543,6 +543,39 @@
         </mxCell>
         <mxCell id="wkE--7n2eSdFaFKRiEd0-267" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;-&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="565" y="540" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wkE--7n2eSdFaFKRiEd0-268" value="BMU电压电流采集板&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="35" y="630" width="415" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wkE--7n2eSdFaFKRiEd0-269" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;通道1&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="630" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wkE--7n2eSdFaFKRiEd0-270" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;通道2&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="630" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wkE--7n2eSdFaFKRiEd0-271" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;通道3&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wkE--7n2eSdFaFKRiEd0-272" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;通道4&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="630" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wkE--7n2eSdFaFKRiEd0-273" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;通道5&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="630" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wkE--7n2eSdFaFKRiEd0-274" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;通道6&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="630" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wkE--7n2eSdFaFKRiEd0-275" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;通道7&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="630" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wkE--7n2eSdFaFKRiEd0-276" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;通道8&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="630" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wkE--7n2eSdFaFKRiEd0-277" value="CAN&lt;br&gt;网口" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="50" y="720" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wkE--7n2eSdFaFKRiEd0-278" value="CAN&lt;br&gt;网口" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="100" y="720" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
