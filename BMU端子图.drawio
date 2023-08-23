@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T09:32:45.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="xPu-POjdiuDnXrLXJQc9" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T09:35:35.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="dnbtXIHq4wUznqCtm661" version="21.6.8" type="github">
   <diagram name="第 1 页" id="vHNizKL9Y82_c_2R3YAB">
     <mxGraphModel dx="815" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -578,7 +578,7 @@
           <mxGeometry x="100" y="720" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkE--7n2eSdFaFKRiEd0-279" value="电压电流采集板通过CAN网口连接BMU主控的CAN2网口，BMU主控通过网线对采集板直接供电。&lt;br&gt;每个采集板最多测量8个通道数据，8个通道电压、电流可以任意组合，比如8个电流或者4电流4电压。" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="770" width="420" height="50" as="geometry" />
+          <mxGeometry x="30" y="770" width="420" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
